@@ -26,7 +26,7 @@ A configured Netbeans project is provided. Just 'build' and 'run', the default
 and 1 (generation rounds). 
 
 The code is written in Java 8, and was tested with Oracle Java 8 JRE, in both 
-Windows 7 64bits and Linux Mint 17.3 64bits operative systems.
+Windows 7 64bits and Linux Mint 18.1 64bits operative systems.
 
 ## Testing
 
